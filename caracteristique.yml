@@ -1,0 +1,18 @@
+# Mesures en m
+
+# Diamètre extérieur
+D: 0.080
+# Distance du haut de l'ogive à l'encastrure supérieur des ailerons
+Xail: 0.800
+# Distance du haut de l'ogive au haut du propulseur
+prop: 0.722
+# Longeur extérieure de l'ogive
+l: 0.200
+e: 0.130
+m: 0.150
+p: 0.100
+n: 0.100
+epaisseur_aileron: 0.002
+nb_ailerons: 4
+Xcg_avec: 0.580
+Xcg_sans: 0.559
